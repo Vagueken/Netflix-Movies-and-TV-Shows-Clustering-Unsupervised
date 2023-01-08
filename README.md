@@ -1,4 +1,6 @@
 # Netflix-Movies-and-TV-Shows-Clustering-Unsupervised
+![image](https://user-images.githubusercontent.com/67421545/211213323-17374f47-9ff1-4828-8300-3f89f5bddf10.png)
+
 ## Objectives:<br>
 * Conduct Exploratory Data Analysis.
 * Try understanding what type content is available in different countries.
