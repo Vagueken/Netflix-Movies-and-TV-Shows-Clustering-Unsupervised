@@ -50,4 +50,6 @@ Next, we treat the null values by dropping them if the respective variables cont
 <p>Once obtained the required insights from the EDA, we start with Pre-processing the text data by removing the punctuation, and, stop words. This filtered data is passed through TF - IDF Vectorizer since we are conducting a text-based clustering and the model needs the data to be vectorized in order to predict the desired results.</p>
 
 <p>Finally, K–Means clustering is utilized to form distinct clusters with similar data points.</p>
+<p>A content based recommender system was built using the similarity matrix obtained after using cosine similarity. This recommender system will make 10 recommendations to the user based on the type of show they watched.</p>
+
 
